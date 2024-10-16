@@ -1,0 +1,9 @@
+[
+	{
+		"title": "Musea Holesky",
+		"url": "https://explorer-holesky.musea.network/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/museanetwork/frontend-configs/main/configs/network-icons/musea.svg",
+		"isActive": true
+	}
+]
